@@ -19,7 +19,7 @@ canvas = Canvas(bg='black', width=1920, height=1080)
 canvas.pack()
 canvas.create_image(0, 0, image=cred_img, anchor='nw')
 
-canvas.create_text(960, 125, text='Возвращение Фредди\nСОЗДАТЕЛИ\nКод, алгоритмы:\nВладимир Кузнецов\nПрообраз:\n'
+canvas.create_text(960, 130, text='Возвращение Фредди\nСОЗДАТЕЛИ\nКод, алгоритмы:\nВладимир Кузнецов\nПрообраз:\n'
                                   'Серия игр Five Nights at Freddy (создатель: Скотт Коутон)\nЗвуки:\nЭмбиенс, '
                                   'звуки аниматроников, звуки офиса и камер, '
                                   'звуки скримеров взяты из игр FNaF 1, FNaF 3 и '
