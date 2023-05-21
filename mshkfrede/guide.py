@@ -95,7 +95,7 @@ def open_anim():
 
 
     def freddy():
-        global count_fred, fred, fred1
+        global count_fred, fred
         count_fred += 1
         if count_fred % 2 != 0:
             canvas2.create_image(960, 470, image=anims[0], anchor='nw', tag='freddy')
