@@ -136,7 +136,7 @@ def what():
 
     spring_jump.protocol('WM_DELETE_WINDOW', no_salvation)
 
-    spring_jump.after(15000, main_jump.destroy)
+    spring_jump.after(20000, main_jump.destroy)
 
 
 fred_button = Button(canvas, text='Фредди', bg='#593720', fg='white', command=summon_freddy)
