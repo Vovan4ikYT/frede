@@ -29,7 +29,7 @@ canvas.create_text(960, 125, text='Возвращение Фредди\nСОЗД
                                   'FNaF - Title (переделано LSDevelompent, оригинал - '
                                   'Five Nights at Freddys (The Living Tombstone))\nSuper FNaF - Credits '
                                   '(переделано LSDevelopment, оригинал - Die in a Fire (The Living Tombstone))\n'
-                                  'И ты, мой дорогой игрок. Спасибо тебе за игру.', fill='lime', font='Times 25')
+                                  'И ты, мой дорогой игрок. Спасибо тебе за игру.', fill='lime', font='Times 15')
 
 canvas.create_image(0, 800, image=anims[0], anchor='nw')
 canvas.create_image(256, 800, image=anims[1], anchor='nw')
